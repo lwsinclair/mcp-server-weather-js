@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/hideya-mcp-server-weather-js-badge.png)](https://mseep.ai/app/hideya-mcp-server-weather-js)
+
 # Simple Weather MCP Server example from Quickstart [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/hideya/mcp-server-weather-js/blob/main/LICENSE) [![npm version](https://img.shields.io/npm/v/@h1deya/mcp-server-weather.svg)](https://www.npmjs.com/package/@h1deya/mcp-server-weather)
 
 Node.js server implementing
